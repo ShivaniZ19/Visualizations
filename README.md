@@ -1,6 +1,5 @@
 # Visualizations
 
-```
 # My Visual Explorations
 
 d3.js and plotly.js
@@ -13,4 +12,4 @@ TABLEAU
 
 Exploring Governance Indicators Around The World -https://public.tableau.com/app/profile/hari.shivani.gudi/viz/Book3_16939355610200/Story1?publish=yes
 
-```
+
